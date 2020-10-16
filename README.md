@@ -1,2 +1,3 @@
 # MAD
-some functions to help with math for data analisis
+some functions to help with math for data analisis...
+note that all the results are approximated to 2 digits after decimal point.

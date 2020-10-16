@@ -17,7 +17,7 @@ float mad::round(float n){
 	return rounded;
 }
 
-void mad::swap(vector<float> &v, int i, int j){
+void mad::swap(vector<float> &v, float i, float j){
 	
 	float tmp = v[i];
 	v[i] = v[j];

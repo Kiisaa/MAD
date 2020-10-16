@@ -1,5 +1,6 @@
 # MAD
 Some functions to help with math for data analysis...
+Always download .cpp and .h from latest version folder!
 
 Note that all the results are approximated to 2 digits after decimal point. 
 

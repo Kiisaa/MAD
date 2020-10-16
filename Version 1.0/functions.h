@@ -8,7 +8,7 @@ namespace mad{
 
 void sort(vector<float>&);//algorithm (selection sort) to order a vector
 void print(const vector<float>&);//print vector's values
-void swap(vector<float>&, int, int);//function to swap two elements of a vector
+void swap(vector<float>&, float, float);//function to swap two elements of a vector
 float round(float);//returns n rounded to two digits after decimal point
 float average(const vector<float>&);//return the average of a vector
 float median(vector<float>);//return the median of a vector

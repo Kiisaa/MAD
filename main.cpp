@@ -1,5 +1,5 @@
 #include "functions.h" //this .h already includes: iostream, cmath
-												 //vector, climits
+			//vector, climits
 
 					   //this .h IS already useing std namespace
 

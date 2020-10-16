@@ -1,4 +1,7 @@
 # MAD
+
+Created by Federico Calabrò
+
 Some functions to help with math for data analysis...
 Always download .cpp and .h from latest version folder!
 

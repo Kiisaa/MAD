@@ -1,5 +1,5 @@
 # MAD
-Some functions to help with math for data analisis...
+Some functions to help with math for data analysis...
 
 Note that all the results are approximated to 2 digits after decimal point. 
 

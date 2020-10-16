@@ -1,3 +1,5 @@
+#CHANGELOG V1.0
+
 uploaded 16-10-20
 
 avaiable functions:
